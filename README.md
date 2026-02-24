@@ -7,7 +7,7 @@ You can control particle behavior using hand gestures through your camera — ex
 
 The entire project was generated from a single prompt using Google AI Studio, showcasing how powerful and creative AI-assisted coding has become.
 
-#✨ Features
+✨ Features
 
 🎥 Camera-based hand gesture control
 
@@ -23,14 +23,14 @@ The entire project was generated from a single prompt using Google AI Studio, sh
 
 🖥 Works directly in the browser — no backend required
 
-#🧠 Why This Project?
+🧠 Why This Project?
 
 This project is a small example of how AI is transforming creative coding.
 With just one natural language prompt, AI generated a fully working interactive 3D system — something that normally takes days of development.
 
 AI isn’t replacing developers — it’s supercharging our creativity.
 
-#🤝 Contributing
+🤝 Contributing
 
 Pull requests and suggestions are welcome!
 If you create new particle shapes or gestures, feel free to share them.
